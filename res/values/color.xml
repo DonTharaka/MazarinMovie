@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="movie_cell_background">#66E5E4E2</color>
+    <color name="theme_blue">#03A7E4</color>
+    <color name="gray">#808080</color>
+
+</resources>
